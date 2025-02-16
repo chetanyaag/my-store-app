@@ -12,10 +12,7 @@ function App() {
       <header className="bg-gray-800 text-white py-4 px-6 flex items-center">
         <h1 className="text-2xl font-bold font-comic">My Store</h1>
       </header>
-
-
-    <ProductTable/>
-
+      <ProductTable/>
     </>
 
 

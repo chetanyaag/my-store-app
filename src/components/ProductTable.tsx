@@ -41,7 +41,7 @@ export default function ProductTable(){
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        fetch("http://localhost:3000/product")
+        fetch("http://localhost:3000/products")
           .then((response) => {
             if (!response.ok) {
               throw new Error(`HTTP error! Status: ${response.status}`);

@@ -8,7 +8,7 @@ This is a part of the **MyStore** full-stack application, which consists of:
 -  **my-store-app**: A React-based frontend application that consumes this API and renders data to users.
 
 ## Live Running
-   [http://13.61.143.214:5173/] http://13.61.143.214:5173/
+  http://13.61.143.214:5173/
 
 
 ## Features
